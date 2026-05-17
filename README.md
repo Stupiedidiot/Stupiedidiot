@@ -5,4 +5,4 @@ Don't know how I got here or whether I ought to be. An enjoyer of indie websites
 
 ## 📬 Projects
 - [Personal Website](https://stupied.net)
-- [OC Wiki](https://stupied.net)
+- [OC Wiki](https://wiki.stupied.net)
